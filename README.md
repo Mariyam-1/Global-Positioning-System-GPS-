@@ -17,7 +17,7 @@
 | 2 | Packaging | ✅ |
 | 3 | Buzzer alerts if destination is near (< 15 m) | ✅ |
 | 4 | Potentiometer to control LCD Contrast | ✅ |
-| 5 | Code separated into `.h` and `.c` files for readability | ✅ |
+| 5 | Code separated into `.h` in `Inc` and `.c` files for readability in `Src` | ✅ |
 | 6 | Custom LCD driver built using datasheet | ✅ |
 
 ---
