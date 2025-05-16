@@ -49,9 +49,9 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 ## 🔌 Connections
 | **Component** | **Pin Description** | **TM4C123G Pin** |
 |---------------|----------------------|------------------|
-| LCD RS        | Register Select       | PA5              |
-| LCD EN        | Enable Pin            | PA6              |
-| LCD D4-D7     | Data Lines            | PA0–PA3          |
+| LCD RS        | Register Select       | PB4              |
+| LCD EN        | Enable Pin            | PB5              |
+| LCD D4-D7     | Data Lines            | PB0–PB3          |
 | GPS TX        | Serial Output         | PE4 (UART5 Rx)   |
 | Buzzer        | Digital Output        | PF1              |
 
@@ -118,4 +118,5 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 ---
 
 ## 📂 Project Structure
+
 
