@@ -9,16 +9,30 @@
 - **Department:** Computer and Systems Engineering
 - **Semester:** Spring 2025
 
-## 🧑‍💻 Team Members
-- [Member 1 Name] – UART & GPS Parsing
-- [Member 2 Name] – LCD Interface & Display
-- [Member 3 Name] – Landmark Logic & Distance Calculation
-- [Member 4 Name] – Hardware Integration & Buzzer Control
-- [Member 5 Name] – Testing & Debugging
-- [Member 6 Name] – Documentation & Report Writing
-- [Member 7 Name] – GitHub Management & Final Integration
+## 🧩 Table of Bonuses
 
-> 📌 Replace each `[Member Name]` with actual team members and their contributions.
+| # | Bonus Feature Description | Implemented |
+|---|----------------------------|-------------|
+| 1 | Used Portable Energy Source (Power Bank) | ✅ |
+| 2 | Packaging | ✅ |
+| 3 | Buzzer alerts if destination is near (< 15 m) | ✅ |
+| 4 | Potentiometer to control LCD Contrast | ✅ |
+| 5 | Code separated into `.h` and `.c` files for readability | ✅ |
+| 6 | Custom LCD driver built using datasheet | ✅ |
+
+---
+
+## 👥 Contribution List
+
+| Name | ID | Contribution |
+|------|----|--------------|
+| **Maryam Muhammad ElSayed Mousa** | 2200373 | Main Driver, Testing, Packaging |
+| **Manar Atef Anwer** | 2200694 | GPS and Buzzer Drivers, Project Documentation |
+| **Malak Sherif Abdelghaffar** | 2200605 | GPS and Buzzer Drivers, Project Documentation |
+| **Jumana Waleed Elsayed Muhamed** | 2200362 | GPIO and UART Drivers |
+| **Rofayda Alaa Aawadallah** | 2201473 | GPIO and UART Drivers |
+| **Abdelrahman Sherif Ali** | 2200645 | SysTick Timer, LCD Driver, Buzzer Driver |
+| **Abdallah Khaled Allam** | 2200969 | SysTick Timer, LCD Driver, Buzzer Driver |
 
 ---
 
