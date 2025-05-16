@@ -134,7 +134,7 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 ## 📂 Project Structure
 ## Folder Structure
 
-### Source Files (`src`)
+### Source Files (`Src`)
 - `Bitwise.c` – Bitwise operations
 - `Buzzer.c` – Buzzer driver
 - `firstproject.c` – Main project logic
@@ -145,7 +145,7 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 - `Systick.c` – SysTick timer for delays
 - `UART.c` – UART communication driver
 
-### Header Files (`inc`)
+### Header Files (`Inc`)
 - `Bitwise.h`
 - `Buzzer.h`
 - `define.h`
