@@ -102,7 +102,7 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 
 4. **Display Logic:**
    - If within 50m of a landmark, show name and distance on LCD
-   - If within 10m (`BUZZER_DISTANCE`), activate buzzer
+   - If within 15m (`BUZZER_DISTANCE`), activate buzzer
 
 5. **Fallback:**
    - If no nearby landmarks, show “No landmarks nearby” and turn buzzer off
@@ -132,5 +132,31 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 ---
 
 ## 📂 Project Structure
+## Folder Structure
+
+### Source Files (`src`)
+- `Bitwise.c` – Bitwise operations
+- `Buzzer.c` – Buzzer driver
+- `firstproject.c` – Main project logic
+- `GPIO.c` – GPIO driver
+- `GPS.c` – GPS module interface
+- `Lcd.c` – LCD driver
+- `system_TM4C123.c` – System initialization
+- `Systick.c` – SysTick timer for delays
+- `UART.c` – UART communication driver
+
+### Header Files (`inc`)
+- `Bitwise.h`
+- `Buzzer.h`
+- `define.h`
+- `GPIO.h`
+- `GPS.h`
+- `Lcd.h`
+- `STD.h`
+- `Systick.h`
+- `tm4c123gh6pm.h` – MCU register definitions
+- `UART.h`
+
+---
 
 
