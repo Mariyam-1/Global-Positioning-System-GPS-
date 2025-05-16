@@ -60,15 +60,6 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 ## 💻 Software Used
 - **IDE:** Keil µVision
 - **Language:** Embedded C
-- **Libraries:**
-  - `GPS.h` – GPS data parsing and distance calculation
-  - `UART.h` – UART5 initialization
-  - `LCD.h` – LCD control commands
-  - `SysTick.h` – Delay functions
-  - `Buzzer.h` – Buzzer control
-  - `GPIO.h` – GPIO initialization
-  - `Bitwise.h` – Bit manipulation macros
-  - `TM4C123GH6PM.h` – Tiva C register definitions
 
 ---
 
