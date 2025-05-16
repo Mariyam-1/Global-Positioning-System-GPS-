@@ -140,10 +140,10 @@ This project implements a real-time GPS tracking system using the TM4C123G micro
 | Name | ID | Contribution |
 |------|----|--------------|
 | **Maryam Muhammad ElSayed Mousa** | 2200373 | Main Driver, Testing, Buzzer Driver, Github Repository |
-| **Manar Atef Anwer** | 2200694 | GPS and Buzzer Drivers, Project Documentation |
-| **Malak Sherif Abdelghaffar** | 2200605 | GPS and Buzzer Drivers, Project Documentation |
-| **Jumana Waleed Elsayed Muhamed** | 2200362 | GPIO and UART Drivers |
-| **Rofayda Alaa Aawadallah** | 2201473 | GPIO and UART Drivers |
+| **Manar Atef Anwer** | 2200694 | GPS and Buzzer Drivers, Vedio Documentation |
+| **Malak Sherif Abdelghaffar** | 2200605 | GPS and Buzzer Drivers, Vedio Documentation |
+| **Jumana Waleed Elsayed Muhamed** | 2200362 | GPIO and UART Drivers, Report Documentation |
+| **Rofayda Alaa Aawadallah** | 2201473 | GPIO and UART Drivers, Report Documentation |
 | **Abdelrahman Sherif Ali** | 2200645 | SysTick Timer, LCD Driver,  Packaging |
 | **Abdallah Khaled Allam** | 2200969 | SysTick Timer, LCD Driver,  Packaging |
 
